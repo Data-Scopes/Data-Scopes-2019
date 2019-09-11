@@ -2,12 +2,11 @@
 
 ## Presentation
 
-This assignment for the DH Benelux 2019 Workshop "Documenting Research Practice in DH".
-It is about largely structured data, as these make it easier to illustrate and discuss the necessity to prepare them for analysis and the consequences of the various steps needed for data preparation. Data originate from the Dutch Biography Portal (http://biografischportaal.nl), that combines data from many sources. The data were partially cleaned.
+This assignment for is about largely structured data, as these make it easier to illustrate and discuss the necessity to prepare them for analysis and the consequences of the various steps needed for data preparation. Data originate from the Dutch Biography Portal (http://biografischportaal.nl), that combines data from many sources. The data were partially cleaned.
 
 ## The challenge - a newspaper article
 
-In 2011 an article appeared in the Dutch NRC newspaper that state that demographers discovered that painters and sculptors in the seventeenth century (the Dutch Golden Age) were part of the middle classes but that they lived longer than members of the aristocracy. Their conclusion was based on the comparison of the data from the RKD Artists database with some prosopographies of 'aristocrats' (Dutch: regenten) from Zealand and Leiden. This surprised the demographers as in modern times a lower socio-economic status often means a lower life expectancy [Joke Mat, "Er was iets met die schilders in de Gouden Eeuw", NRC 24 November, 2011](https://www.nrc.nl/nieuws/2011/11/24/er-was-iets-met-die-schilders-in-de-gouden-eeuw-12113509-a1183926)
+In 2011 an article appeared in the Dutch NRC newspaper that state that demographers discovered that painters and sculptors in the seventeenth century (the Dutch Golden Age) were part of the middle classes but that they lived longer than members of the aristocracy. Their conclusion was based on the comparison of the data from the RKD Artists database with some prosopographies of 'aristocrats' (Dutch: _regenten_) from Zealand and Leiden. This surprised the demographers as in modern times a lower socio-economic status often means a lower life expectancy [Joke Mat, "Er was iets met die schilders in de Gouden Eeuw", NRC 24 November, 2011](https://www.nrc.nl/nieuws/2011/11/24/er-was-iets-met-die-schilders-in-de-gouden-eeuw-12113509-a1183926)
 
 In general, there are not many data available about life expectancy before the statistical period in the 19th century started. Often heard generalizations that people before modern times did not live beyond 35 years are rough estimates mostly based on archaeology and include child mortality. However, there were always people who lived much longer than 35, even in the most primitive societies. We have only scattered data about life expectancy and especially no data about specific groups. However, the available biographies have been collected in the Dutch Biography Portal that contains especially data about different professional groups. These mostly contains people from middle-class and elite groups, but they are more varied than just artists or aristocrats but includes all people past compilers of biographical dictionaries deemed worth writing a biography about. These often included elites, but also a varied mix of heroes, administrators, ministers and artists such writers. In more modern times biographical lexicons tend to specialize on specific groups based on professions or regions (such as the RKD artists database mentioned above). Because the Biography Portal is a compilation of many different biographical lexicons, old and new, this make it possible to check the findings of the demographers in more detail and over a longer period of time. They hardly contain data about the lowest strata of society, but a mix of middle and higher strata. The basic question is whether there is a marked difference in survival rates between different groups in various periods of time.
 
@@ -24,7 +23,7 @@ It is a selection from the data from the Biography Portal, that needs some clean
 
 The explanation of the data elaboration is [here](./toelichting.pdf)
 
-For your convenience we have already put up a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1LVnzU5trcKIv43FGfFMuJtAWqwCapbfanWpnmoUCEFU/edit?usp=sharing) at  with the rough data. Please note that it is read only and you have to make a copy to start editing.
+For your convenience we have already put up a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1rebECXsV-85cBbb-qPwO7wVYEqYGhrpPapLt0FXcfj4/edit?usp=sharing) with the rough data. Please note that it is read only and you have to make a copy to start editing.
 
 ## Proposed steps
 
