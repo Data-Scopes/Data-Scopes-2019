@@ -31,9 +31,9 @@ For this workshop we propose the following steps for cleaning and processing the
 
 _Tools_:
 
-    - Open Refine (http://openrefine.org/),
-    - Spreadsheet (Excel, Libre Office, Google Spreadsheets),
-    - programmatic (e.g. Python Pandas (https://pandas.pydata.org/)).
+- Open Refine (http://openrefine.org/),
+- Spreadsheet (Excel, Libre Office, Google Spreadsheets),
+- programmatic (e.g. Python Pandas (https://pandas.pydata.org/)).
 
 Use the tool you are most comfortable with, it should be able to import csv data and to make pivot tables.
 
@@ -43,10 +43,10 @@ The data are in csv format, and not completely usable as is
 
 _Cleaning_:
 
-    - convert (cast) numbers in text format to real numbers;
-    - convert datetime numbers to dates;
-    - remove nulls (this is optical, but distracting in visual inspection);
-    - import and check for import mistakes
+- convert (cast) numbers in text format to real numbers;
+- convert datetime numbers to dates;
+- remove nulls (this is optical, but distracting in visual inspection, already done in google sheet);
+- import and check for import mistakes
 
 
 
@@ -58,24 +58,24 @@ Select the data for further processing. The dataset does not contain complete da
 
 _decisions to make_
 
-    - which data do we need to make the assignment
-    - which alternative in dates do we choose
-    - how do we choose between a maximum number of persons or more precise data
+- which data do we need to make the assignment
+- which alternative in dates do we choose
+- how do we choose between a maximum number of persons or more precise data
 
 
 ### Step 3 - Overview
 
 Make an overview of the data:
 
-    - make an extra column with ages
-    - use your (spreadsheet-like) tool to make pivot tables of your data on ages. This will take some data mangling as grouping the pivot tables will take some manual intervention. Also take into account that a resulting table should fit on a page or a screen and that you want to communicate with it!
-    - the data contain categories per person. Use these to make a more fine-grained overview.
+- make an extra column with ages
+- use your (spreadsheet-like) tool to make pivot tables of your data on ages. This will take some data mangling as grouping the pivot tables will take some manual intervention. Also take into account that a resulting table should fit on a page or a screen and that you want to communicate with it!
+- the data contain categories per person. Use these to make a more fine-grained overview.
 
 _Issues_
 
-  - The dataset contains evident mistakes and errors. How to deal with those?
-  - There are probably also many non-evident other mistakes and errors. How to deal with these?
-  - are the selections sufficient for conclusions? If not - what to do?
+- The dataset contains evident mistakes and errors. How to deal with those?
+- There are probably also many non-evident other mistakes and errors. How to deal with these?
+- are the selections sufficient for conclusions? If not - what to do?
 
 ### Step 4 - Analysis
 
@@ -83,8 +83,8 @@ Analyse the data. What conclusions can we draw with regards to the assignment?
 
 _Issues_
 
-    - what qualifications can we make regarding our conclusions - and can they still be considered valid
-    - are there any other conclusions to draw than the original research questions
-    - how representative are these data
+- what qualifications can we make regarding our conclusions - and can they still be considered valid
+- are there any other conclusions to draw than the original research questions
+- how representative are these data
 
 [link to spreadsheet](https://docs.google.com/spreadsheets/d/1WR5QVI96FJoZ5cWyMU1KYTbuEONrULl83V6CILCFzCY/edit?usp=sharing)
