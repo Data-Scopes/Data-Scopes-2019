@@ -79,6 +79,8 @@ De workshop bestaat iedere dag uit een inleiding en twee praktische sessies waar
 
 Elke week is er ruimte om eigen ideeen te bespreken, terug te komen op eerdere onderwerpen en aanvullende onderwerpen te belichten.
 
+De slides van alle bijeenkomsten zitten in een gezamenlijke presentie: [slides](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit?usp=sharing).
+
 
 ## Instructors
 
