@@ -81,6 +81,10 @@ Elke week is er ruimte om eigen ideeen te bespreken, terug te komen op eerdere o
 
 De slides van alle bijeenkomsten zitten in een gezamenlijke presentie: [slides](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit?usp=sharing).
 
+- [Slides week 1](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit#slide=id.p)
+- [Slides week 2](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit#slide=id.g606c166d0a_0_513)
+- [Slides week 3](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit#slide=id.g60af4dd685_0_0)
+
 
 ## Instructors
 
