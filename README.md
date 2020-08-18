@@ -81,6 +81,8 @@ Elke week is er ruimte om eigen ideeen te bespreken, terug te komen op eerdere o
 
 ### Links naar de slides en andere nuttige websites
 
+Naar de [Data Scopes project website](https://data-scopes.github.io/Data-Scopes/)
+
 De slides van alle bijeenkomsten zitten in een gezamenlijke presentie: [slides](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit?usp=sharing).
 
 - [Slides week 1](https://docs.google.com/presentation/d/1kvThTMqmnLRT2YOak17XhY0JgAueoynU8Jn2rk2AkBk/edit#slide=id.p)
